@@ -3,10 +3,11 @@
 
 # Using AI to split songs to multiple sources/channels
 
-import os, subprocess
+import subprocess
+import os
 from os import path
 
-Executable = 'Dependencies.exe'
+Executable = 'ffmpeg.exe'
 
 
 def convert_mp3_to_wav(audio_):
