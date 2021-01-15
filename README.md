@@ -1,6 +1,6 @@
 # Split-instrumentals
 
-Using an open source package called [Spleeter](https://github.com/deezer/spleeter), we can split the instrumentals involved in a audio file into seperate sources.
+Using an open source package called [Spleeter](https://github.com/deezer/spleeter), we can Split the instrumentals involved in an audio file into separate sources.
 
 Simple steps to proceed:
 1. Clone repo
